@@ -17,7 +17,7 @@ blockquote p { font-size: smaller; }
 
 </style>
 
-# Klimakrise, Artensterben  - global denken, lokal handeln?
+# Klimakrise, Artensterben  - global denken, lokal handeln
 
 
 
@@ -37,6 +37,8 @@ blockquote p { font-size: smaller; }
 ![](pics/elisabeth_zury.jpg){.portrait}
 
 ![](pics/heinz_wittenbrink.jpg){.portrait}
+![](pics/veronika_bacher.jpg){.portrait}
+
 
 # Wald vs. Kiesgrube 
 ##
